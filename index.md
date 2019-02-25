@@ -59,4 +59,4 @@ A. We do not support business or enquiry of any kind currently.
 
 ### Terms and Conditions
 
-1. Offer applicable only if you are able to apply
+1. Offer applicable only if you are able to order.
