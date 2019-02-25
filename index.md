@@ -33,17 +33,21 @@ As work force is less, we are currently not accepting any bulk orders. View FAQs
 ### FAQs
 
 Q. When can we order single piece?
+
 A. We do not have answer for that question currently.
 
 Q. When can we order in bulk?
+
 A. Sorry, no comments.
 
 ### More FAQs
 
 Q. What is the purpose of creating this website?
+
 A. We are seasoned hand crafters of woolen wearables since 2019.
 
 Q. How to connect with the owner for business enquiries?
+
 A. We do not support business or enquiry of any kind currently.
 
 ### Order now!
