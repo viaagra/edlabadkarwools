@@ -6,8 +6,6 @@ We are seasoned hand crafters of woolen wearables since 2019.
 
 ### Our wide catalogue
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 1. Sweaters
 2. Mufflers
 
@@ -30,7 +28,7 @@ Sorry, due to lack of workforce, we do not support single order. View FAQs for m
 
 ### Bulk order
 
-As work force is less, we are currently not accepting any bulk orders.
+As work force is less, we are currently not accepting any bulk orders. View FAQs for more information on this.
 
 ### FAQs
 
