@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## Welcome to Edlabadkar Wools!
 
-You can use the [editor on GitHub](https://github.com/viaagra/edlabadkarwools/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are seasoned hand crafters of woolen wearables since 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt text](https://www.insofe.edu.in/assets/images/students/vivek-edlabadkar.jpg "Logo Title Text 1")
 
-### Markdown
+### Our wide catalogue
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+1. Sweaters
+2. Mufflers
 
-# Header 1
-## Header 2
-### Header 3
+![alt text](https://dtpmhvbsmffsz.cloudfront.net/posts/2017/01/05/586f10ca8f0fc4f4f5015f1a/m_586f10ca8f0fc4f4f5015f1d.jpg "Logo Title Text 1")
 
-- Bulleted
-- List
+![alt text](https://shop.r10s.jp/teamiohenya/cabinet/kit2014-aki/kitkomono450-7.jpg "Logo Title Text 1")
 
-1. Numbered
-2. List
+We are adding more products to our cactalogue very soon, so stay tuned
 
-**Bold** and _Italic_ and `Code` text
+### Prices
 
-[Link](url) and ![Image](src)
-```
+The price vary based on the following criteria:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Single order
+2. Bulk order
 
-### Jekyll Themes
+### Single piece order
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viaagra/edlabadkarwools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Sorry, due to lack of workforce, we do not support single order. View FAQs for more information on this.
 
-### Support or Contact
+### Bulk order
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As work force is less, we are currently not accepting any bulk orders.
+
+### FAQs
+
+Q. When can we order single piece?
+A. We do not have answer for that question currently.
+
+Q. When can we order in bulk?
+A. Sorry, no comments.
+
+### More FAQs
+
+Q. What is the purpose of creating this website?
+A. We are seasoned hand crafters of woolen wearables since 2019.
+
+Q. How to connect with the owner for business enquiries?
+A. We do not support business or enquiry of any kind currently.
+
+### Order now!
+... to get early bird discount!
+
+- Hurry! Early bird discount of upto 95% on all range of products*
+
+* terms and conditions apply
+
+### Terms and Conditions
+
+1. Offer applicable only if you are able to apply
